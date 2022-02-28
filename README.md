@@ -6,7 +6,6 @@
 cd biofuel
 scrapy crawl articles
 ```
-
 Output file
 ```
 biofuel/output/articles.json
